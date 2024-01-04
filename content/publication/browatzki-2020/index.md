@@ -2,7 +2,7 @@
 title: Encoder-Decoder Networks for Retinal Vessel Segmentation Using Large Multi-scale
   Patches
 authors:
-- Björn Browatzki
+- admin
 - Jörn Philipp Lies
 - Christian Wallraven
 date: '2020-01-01'
@@ -11,6 +11,7 @@ publication_types:
 - article-journal
 publication: '*Lecture Notes in Computer Science (including subseries Lecture Notes
   in Artificial Intelligence and Lecture Notes in Bioinformatics)*'
+publication_short: MICCAI-OMIA
 doi: 10.1007/978-3-030-63419-3_5
 abstract: We propose an encoder-decoder framework for the segmentation of blood vessels
   in retinal images that relies on the extraction of large-scale patches at multiple
@@ -26,4 +27,7 @@ tags:
 - Residual networks
 - Retinal vessel detection
 - Semantic segmentation
+featured: true
 ---
+
+![Results](./results.png)

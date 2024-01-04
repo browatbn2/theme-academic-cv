@@ -3,7 +3,7 @@ title: Image retrieval with semantic sketches
 authors:
 - David Engel
 - Christian Herdtweck
-- Björn Browatzki
+- admin
 - Cristóbal Curio
 date: '2011-01-01'
 publishDate: '2024-01-04T18:48:40.704424Z'

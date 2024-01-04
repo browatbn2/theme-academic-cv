@@ -1,7 +1,7 @@
 ---
 title: A comparison of geometric- and regression-based mobile gaze-tracking
 authors:
-- Björn Browatzki
+- admin
 - Heinrich H. Bülthoff
 - Lewis L. Chuang
 date: '2014-01-01'
@@ -23,8 +23,7 @@ abstract: Video-based gaze-tracking systems are typically restricted in terms of
   approach. The regression approach is favored, given that it has the potential for
   further optimization, provides confidence bounds for its gaze estimates and offers
   greater flexibility in its implementation. Open-source software for the methods
-  reported here is also provided for user implementation. © 2014 Browatzki, Bulthoff
-  and Chuang.
+  reported here is also provided for user implementation. 
 tags:
 - Active vision
 - Calibration method
@@ -35,4 +34,5 @@ tags:
 - calibration method
 - gaze measurement
 - eye tracking
+featured: false
 ---

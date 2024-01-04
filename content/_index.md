@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Hiho, I'm Björn! 
+#      title: Hiho, I'm Björn! 
 #      title: Hi there! 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -234,8 +234,8 @@ sections:
         See all [publications](./publication/).
         {{% /callout %}}
     design:
-      columns: '1'
-      view: detail
+      columns: '2'
+      view: card
 #  - block: collection
 #    content:
 #      title: Publications
