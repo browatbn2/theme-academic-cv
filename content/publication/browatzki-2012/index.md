@@ -15,4 +15,5 @@ doi: 10.1109/ICRA.2012.6225218
 links:
 - name: URL
   url: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6225218
+featured: true
 ---
