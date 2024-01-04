@@ -12,6 +12,7 @@ publishDate: '2024-01-04T18:48:40.680323Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the IEEE International Conference on Computer Vision*'
+#publication_short: '*Proceedings of the IEEE International Conference on Computer Vision*'
 doi: 10.1109/ICCVW.2011.6130385
 abstract: Categorization of objects solely based on shape and appearance is still
   a largely unresolved issue. With the advent of new sensor technologies*such as consumer-level

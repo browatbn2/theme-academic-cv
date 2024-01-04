@@ -11,6 +11,7 @@ publishDate: '2024-01-04T18:48:40.745174Z'
 publication_types:
 - paper-conference
 publication: '*IEEE International Conference on Robotics and Automation (ICRA)*'
+publication_short: '*ICRA*'
 doi: 10.1109/ICRA.2012.6225218
 links:
 - name: URL

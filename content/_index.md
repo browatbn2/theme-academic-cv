@@ -234,8 +234,8 @@ sections:
         See all [publications](./publication/).
         {{% /callout %}}
     design:
-      columns: '1'
-      view: detail
+      columns: '2'
+      view: card
 #  - block: collection
 #    content:
 #      title: Publications

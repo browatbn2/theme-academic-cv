@@ -1,14 +1,15 @@
 ---
 title: Robust discrimination and generation of faces using compact, disentangled embeddings
 authors:
-- Bjoern Browatzki
+- admin
 - Christian Wallraven
 date: '2019-01-01'
 publishDate: '2024-01-04T20:45:04.086531Z'
 publication_types:
-- article-journal
-publication: '*Proceedings - 2019 International Conference on Computer Vision Workshop,
+- paper-conference
+publication: '*International Conference on Computer Vision Workshop,
   ICCVW 2019*'
+publication_short: '*ICCVW*'
 doi: 10.1109/ICCVW.2019.00071
 abstract: "Current solutions to discriminative and generative tasks in computer vision
   exist separately and often lack interpretability and explainability. Using faces
@@ -24,10 +25,12 @@ abstract: "Current solutions to discriminative and generative tasks in computer 
   attributes, and supports various face editing tasks using a face representation
   of only 99 dimensions. Finally, we apply the architecture's robust image synthesis
   capabilities to visually debug label-quality issues in an existing face dataset."
+
 tags:
 - Adversarial autoencoder
 - Disentanglement
 - Face identification
 - Facial expression recognition
 - Image generation
+featured: true
 ---
