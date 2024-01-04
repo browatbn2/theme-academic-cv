@@ -35,6 +35,12 @@ interests:
   - Robotic Vision
   - Few-shot Learning
 
+fooo:
+  - Faces, Eyes, Bodies
+  - Medical Images
+  - Robotic Vision
+  - Few-shot Learning
+  
 # Education to show in About widget
 education:
   courses:
@@ -121,4 +127,13 @@ highlight_name: true
 ---
 
 I'm a computer vision researcher and engineer.
+
+During my PhD at [MPI](https://duckduckgo.com) focused on object perception skills for robots.
+
+Later I joined [Wirewax](https://wirewax.com) in London where I had the pleasure to work on many fun computer vision problems like Face Indentification, 
+
+I'm also a running enthusiast (=addict). When I'm not injured (which unfortunately has been rare lately) you usally find me somewhere on a trail or on a track. 
+If possible together with people from these fabulous running clubs: 
+[Seoul Flyers](https://duckduckgo.com), [Victoria Park Harriers](https://duckduckgo.com), [LAV Tübingen](https://duckduckgo.com)
+
 {style="text-align: justify;"}
