@@ -25,7 +25,9 @@ abstract: Current supervised methods for facial landmark detection require a lar
   add a low amount of parameters to the decoder, inference runs at several hundred
   FPS on a GPU.
 
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:  Current supervised methods for facial landmark detection require a large
+  amount of training data and may suffer from overfitting to specific datasets due
+  to the massive number of parameters. [[...]](./publication/browatzki-2020-a/)
 
 #url_pdf: ''
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'

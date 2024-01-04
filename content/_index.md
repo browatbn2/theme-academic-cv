@@ -230,9 +230,9 @@ sections:
           - publication
         featured_only: true
       text: |-
-        {{% callout note %}}
-        See all [publications](./publication/).
-        {{% /callout %}}
+#        {{% callout note %}}
+#        See all [publications](./publication/).
+#        {{% /callout %}}
     design:
       columns: '2'
       view: card

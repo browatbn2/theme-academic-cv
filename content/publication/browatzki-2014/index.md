@@ -34,5 +34,5 @@ tags:
 - calibration method
 - gaze measurement
 - eye tracking
-featured: false
+featured: true
 ---

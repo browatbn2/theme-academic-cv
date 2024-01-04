@@ -31,4 +31,5 @@ tags:
 - Semantic Brushes
 - Sketch Interface
 - User-Study
+featured: true
 ---
