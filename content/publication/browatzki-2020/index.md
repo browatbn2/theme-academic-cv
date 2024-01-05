@@ -27,6 +27,8 @@ tags:
 - Retinal vessel detection
 - Semantic segmentation
 featured: true
+url_video: paper07.mp4
+url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-63419-3_5
 ---
 
 <video width="320" height="240" controls>

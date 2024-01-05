@@ -25,6 +25,10 @@ abstract: Categorization of objects solely based on shape and appearance is stil
   two-dimensional and three-dimensional information. We evaluate categorization performance
   for both modalities in separate and combined representations and demonstrate the
   advantages of using range data for object and shape processing skills. © 2011 IEEE.
+
+links:
+  - name: Dataset
+    url: '../../project/cin-dataset'
 featured: true
 ---
 

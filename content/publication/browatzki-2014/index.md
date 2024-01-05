@@ -23,7 +23,10 @@ abstract: Video-based gaze-tracking systems are typically restricted in terms of
   approach. The regression approach is favored, given that it has the potential for
   further optimization, provides confidence bounds for its gaze estimates and offers
   greater flexibility in its implementation. Open-source software for the methods
-  reported here is also provided for user implementation. 
+  reported here is also provided for user implementation.
+
+url_code: 'https://bitbucket.org/browatbn/mug/src/master/'
+  
 tags:
 - Active vision
 - Calibration method

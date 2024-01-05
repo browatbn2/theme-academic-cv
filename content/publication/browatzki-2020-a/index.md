@@ -30,7 +30,7 @@ summary:  Current supervised methods for facial landmark detection require a lar
   to the massive number of parameters. [[...]](./publication/browatzki-2020-a/)
 
 url_pdf: 'https://arxiv.org/pdf/1911.10448.pdf'
-#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://github.com/browatbn2/3fabrec'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
 #url_project: ''
@@ -70,23 +70,21 @@ featured: true
 #   Otherwise, set `slides: ""`.
 #slides: retinacorder
 ---
-[//]: # (**Summary**)
-
 <video controls autoplay muted>
   <source src="8601-1min.mp4" type="video/mp4">
 </video>
 
-****
 
-**Conference Talk (5min)**
+### Conference Talk (5min)
+***
 
 <video width="320" height="240" controls>
   <source src="8601-oral.mp4" type="video/mp4">
 </video>
 
-****
 
-**A few examples**
+### A few examples
+***
 
 Rows show the original, and the reconstruction itself, with predicted landmarks, with ground-truth landmarks, and with predicted landmark heatmaps, respectively.
 

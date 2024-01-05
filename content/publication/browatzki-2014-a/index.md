@@ -28,4 +28,7 @@ abstract: For any robot, the ability to recognize and manipulate unknown objects
   benefit of perception-driven exploration over passive, vision-only processes at
   discriminating between highly similar objects. We demonstrate that objects are recognized
   faster and at the same time with a higher accuracy.
+
+url_pdf: https://ieeexplore.ieee.org/document/6840371
+
 ---

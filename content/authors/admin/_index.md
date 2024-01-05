@@ -17,8 +17,8 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Computer Vision Researcher / 
-      Machine Learning Engineer
+role: Computer Vision Researcher 
+      Machine/Deep Learning Engineer
 
 # Organizations/Affiliations to show in About widget
 #organizations:
@@ -31,9 +31,9 @@ bio:
 # Interests to show in About widget
 interests:
   - Faces, Eyes, Bodies
-  - Medical Images
+  - Medical AI
   - Robotic Vision
-  - Few-shot Learning
+#  - Few-shot Learning
 
 # Education to show in About widget
 education:
@@ -122,16 +122,25 @@ highlight_name: true
 
 [//]: # (I'm a computer vision researcher and engineer. )
 
-During my PhD at the [MPI in Tübingen](https://duckduckgo.com), I was developing object multimodal perception skills for robots in collaboration with the [IIT in Genoa](https://iit.it) and [Fraunhofer IPA](). 
-Later, I joined the interactive video startup [Wirewax](https://wirewax.com) in London where I had the pleasure to work on many fun computer vision problems including Face Identification, 
+During my PhD at the [MPI in Tübingen](https://www.kyb.tuebingen.mpg.de/human-perception-cognition-action), I was developing multimodal object perception skills for **robots** in collaboration with the [IIT in Genoa](https://iit.it) and [Fraunhofer IPA](https://www.ipa.fraunhofer.de). 
+Later, I joined the interactive video startup [Wirewax](https://wirewax.app) in London where I had the pleasure to work on many fun **computer vision** problems including Face Identification, 
 Nudity Detection :eyes: and Object Tracking.
 
-In 2018, I moved to Seoul for a position at [Korea University](). My work mostly revolved around decoding, encoding, recoding, analysing large amounts of facial images. 
-At that time, I got in contact with retinal images. This project eventually turned into [eye2you GmbH](), a medical AI startup creating a portable and intelligent fundus camera.  
+In 2018, I moved to Seoul for a position at [Korea University](https://cogsyslab.notion.site/). My work mostly revolved around decoding, encoding, recoding, analysing large amounts of **facial data**. 
+At that time, I also started with the analysis of **retinal images**. This project eventually turned into [eye2you GmbH](https://eye2you.github.io/), a medtech startup that was set out to create a smart and portable fundus camera for a wide range of medical applications. 
 
-Finally, I'm also a running enthusiast (=addict). When I'm not injured (which unfortunately has been rare lately) you usually find me somewhere on a trail or on a track. 
-If possible together with people from these fabulous running clubs: 
-[Seoul Flyers](https://seoulflyers.wixsite.com/seoulflyers), [Victoria Park Harriers](https://vphthac.org.uk/), [LAV Tübingen](https://lav-tuebingen.com/)
+I have a particular interest in **few-shot** settings and **semi-supervised** approaches using unsupervised **generative methods**.
 
-[//]: # (*"There is now growth in the comfort zone, no comfort in the growth zone."*)
+Finally, I'm also a running enthusiast (=addict). When I'm not injured (which unfortunately has been rare lately) you usually find me somewhere on a track or trail.
+
+[//]: # (**:small_orange_diamond: Spaces over tabs :small_orange_diamond: VI over Emacs :small_orange_diamond: C++ over Java :small_orange_diamond: Light mode over dark mode**)
+:small_blue_diamond: Spaces over tabs :small_blue_diamond: VI over Emacs :small_blue_diamond: C++ over Java :small_blue_diamond: Light mode over dark mode &nbsp;  <span style="font-size:0.5em;">(yes, I'm old school)</span>
+
+[//]: # (Gnome over KDE :small_blue_diamond: )
+
+
+[//]: # (If possible together with people from these fabulous running clubs: )
+
+[//]: # ([Seoul Flyers]&#40;https://seoulflyers.wixsite.com/seoulflyers&#41;, [Victoria Park Harriers]&#40;https://vphthac.org.uk/&#41;, [LAV Tübingen]&#40;https://lav-tuebingen.com/&#41;)
+
 {style="text-align: justify;"}

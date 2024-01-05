@@ -6,7 +6,7 @@ tags:
   - Retinal Images
   - Android
   - eye2you
-date: '2016-04-27T00:00:00Z'
+date: '2022-09-30T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -40,8 +40,8 @@ The recorded images are stitched to a panoramic retina image by taking the anato
 
 All computations are done on the smartphone using OpenCV, PyTorch, C++ and Kotlin. Models were optimized and ran in real time (<1s per model). 
 
+### Panoramic fundus image stitching
 ****
 
-**Example of stitching process**
 ![panorama](./panos_with_inputs.png)
 
