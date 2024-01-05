@@ -273,7 +273,7 @@ sections:
       text: |-
 #        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-#      email: test@example.org
+#      email: test@retinacorder.org
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
       address:
@@ -308,9 +308,9 @@ sections:
       autolink: true
       # Email form provider
       form:
-        provider: netlify
+        provider: formspree
         formspree:
-          id:
+          id: myyryljd
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: true

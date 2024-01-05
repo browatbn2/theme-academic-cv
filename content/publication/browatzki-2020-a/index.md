@@ -60,15 +60,15 @@ featured: true
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 #projects:
-#  - example
+#  - retinacorder
 
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   E.g. `slides: "retinacorder"` references `content/slides/retinacorder/index.md`.
 #   Otherwise, set `slides: ""`.
-#slides: example
+#slides: retinacorder
 ---
 [//]: # (**Summary**)
 
