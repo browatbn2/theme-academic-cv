@@ -3,13 +3,13 @@ title: '3FabRec: Fast Few-Shot Face Alignment by Reconstruction'
 authors:
 - admin
 - Christian Wallraven
-date: '2020-01-01'
-publishDate: '2024-01-04T18:48:40.754651Z'
+date: '2020-06-01'
+#publishDate: '2024-01-04T18:48:40.754651Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the IEEE Computer Society Conference on Computer Vision
   and Pattern Recognition*'
-publication_short: CVPR (Oral)
+publication_short: '*CVPR 2020* *(Oral)*'
 doi: 10.1109/CVPR42600.2020.00615
 abstract: Current supervised methods for facial landmark detection require a large
   amount of training data and may suffer from overfitting to specific datasets due
@@ -29,7 +29,7 @@ summary:  Current supervised methods for facial landmark detection require a lar
   amount of training data and may suffer from overfitting to specific datasets due
   to the massive number of parameters. [[...]](./publication/browatzki-2020-a/)
 
-#url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/1911.10448.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
@@ -37,10 +37,16 @@ summary:  Current supervised methods for facial landmark detection require a lar
 #url_slides: ''
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_video: 'https://youtube.com'
+#url_video: '8601-oral.mp4'
 
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1911.10448
+- name: Video (1min)
+  url: '8601-oral.mp4'
+- name: Video (5min)
+  url: '8601-oral.mp4'
+    
 featured: true
 
 #image:
@@ -64,3 +70,27 @@ featured: true
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
+[//]: # (**Summary**)
+
+<video controls autoplay muted>
+  <source src="8601-1min.mp4" type="video/mp4">
+</video>
+
+****
+
+**Conference Talk (5min)**
+
+<video width="320" height="240" controls>
+  <source src="8601-oral.mp4" type="video/mp4">
+</video>
+
+****
+
+**A few examples**
+
+Rows show the original, and the reconstruction itself, with predicted landmarks, with ground-truth landmarks, and with predicted landmark heatmaps, respectively.
+
+The fifth column illustrates a failure case.
+
+![examples](./featured__.png)
+

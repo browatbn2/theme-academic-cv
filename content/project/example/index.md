@@ -1,6 +1,6 @@
 ---
 title: eye2you Retinacorder
-summary: An example of using the in-built project page.
+summary: A handheld, smartphone-based fundus camera for early detection of retinal and systemic diseases.
 tags:
   - Medical AI
   - Retinal Images
@@ -12,7 +12,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+#  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
@@ -39,3 +39,9 @@ Recording and analysis are powered by an artificial intelligence which provides 
 The recorded images are stitched to a panoramic retina image by taking the anatomical structure of the retina into account. The panoramic image can then be analyzed for specific diseases, anatomical anomalies, or measure anatomical features like cup-to-disc ratio of the optic nerve.
 
 All computations are done on the smartphone using OpenCV, PyTorch, C++ and Kotlin. Models were optimized and ran in real time (<1s per model). 
+
+****
+
+**Example of stitching process**
+![panorama](./panos_with_inputs.png)
+

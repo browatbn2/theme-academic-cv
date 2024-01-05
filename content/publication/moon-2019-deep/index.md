@@ -3,7 +3,7 @@ title: Deep neural networks process similar facial features compared to humans i
   facial expression recognition
 authors:
 - Hyungjun Moon
-- Björn Browatzki
+- admin
 - Caroline Blais
 - Christian Wallraven
 date: '2019-01-01'

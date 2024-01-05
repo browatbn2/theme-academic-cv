@@ -51,70 +51,70 @@ sections:
 #      username: admin
 #    design:
 #      columns: '1'
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Machine Learning Consultant
-          company: NanoStruct GmbH, Korea University
-#          company_url: 'https://nanostruct.eu'
-          #          company_logo: org-gc
-          location: Tübingen, Würzburg, Seoul
-          date_start: '2023-06-01'
-#          date_end: '2022-09-30'
+#  - block: experience
+#    content:
+#      title: Experience
+#      # Date format for experience
+#      #   Refer to https://docs.hugoblox.com/customization/#date-format
+#      date_format: Jan 2006
+#      # Experiences.
+#      #   Add/remove as many `experience` items below as you like.
+#      #   Required fields are `title`, `company`, and `date_start`.
+#      #   Leave `date_end` empty if it's your current employer.
+#      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+#      items:
 #        - title: Machine Learning Consultant
-#          company: Korea University
-#          company_url: 'https://nanostruct.eu'
+#          company: NanoStruct GmbH, Korea University
+##          company_url: 'https://nanostruct.eu'
 #          #          company_logo: org-gc
-#          location: Seoul, Korea
+#          location: Tübingen, Würzburg, Seoul
 #          date_start: '2023-06-01'
-#        #          date_end: '2022-09-30'
-        - title: Co-founder & CTO
-          company: eye2you GmbH
-          company_url: ''
-#          company_logo: org-gc
-          location: Tübingen, Germany
-          date_start: '2020-01-01'
-          date_end: '2022-09-30'
-#          description: |2-
-#              Responsibilities include:
-#
-#              * Analysing
-#              * Modelling
-#              * Deploying
-        - title: Research Professor
-          company: Korea University - Dept. for Artificial Intelligence
-          company_url: 'https://cogsyslab.notion.site/cogsyslab/Cognitive-Systems-Lab-b41bce18628f44eda178c01c7d9d26c7'
-#          company_logo: KU
-          location: Seoul, Korea
-          date_start: '2018-04-01'
-          date_end: '2021-03-31'
-        - title: Research Associate
-          company: Hochschule Reutlingen - Cognitive Systems
-          company_url: https://cogsys.reutlingen-university.de/home/ 
-          #          company_logo: KU
-          location: Reutlingen, Germany
-          date_start: '2016-04-01'
-          date_end: '2017-12-31'
-#          description: Motion capture, VR, 3D reconstruction
-        - title: Senior Computer Vision Engineer
-          company: Wirewax Ltd. (now Vimeo)
-          company_url: 'https://wirewax.app'
-#          company_logo: org-x
-          location: London, UK
-          date_start: '2014-04-01'
-          date_end: '2016-03-31'
-#          description: I was working on many fun computer vision problems, including Face Identification, Nudity Detection, and Object Tracking.
-    design:
-      columns: '2'
+##          date_end: '2022-09-30'
+##        - title: Machine Learning Consultant
+##          company: Korea University
+##          company_url: 'https://nanostruct.eu'
+##          #          company_logo: org-gc
+##          location: Seoul, Korea
+##          date_start: '2023-06-01'
+##        #          date_end: '2022-09-30'
+#        - title: Co-founder & CTO
+#          company: eye2you GmbH
+#          company_url: ''
+##          company_logo: org-gc
+#          location: Tübingen, Germany
+#          date_start: '2020-01-01'
+#          date_end: '2022-09-30'
+##          description: |2-
+##              Responsibilities include:
+##
+##              * Analysing
+##              * Modelling
+##              * Deploying
+#        - title: Research Professor
+#          company: Korea University - Dept. for Artificial Intelligence
+#          company_url: 'https://cogsyslab.notion.site/cogsyslab/Cognitive-Systems-Lab-b41bce18628f44eda178c01c7d9d26c7'
+##          company_logo: KU
+#          location: Seoul, Korea
+#          date_start: '2018-04-01'
+#          date_end: '2021-03-31'
+#        - title: Research Associate
+#          company: Hochschule Reutlingen - Cognitive Systems
+#          company_url: https://cogsys.reutlingen-university.de/home/ 
+#          #          company_logo: KU
+#          location: Reutlingen, Germany
+#          date_start: '2016-04-01'
+#          date_end: '2017-12-31'
+##          description: Motion capture, VR, 3D reconstruction
+#        - title: Senior Computer Vision Engineer
+#          company: Wirewax Ltd. (now Vimeo)
+#          company_url: 'https://wirewax.app'
+##          company_logo: org-x
+#          location: London, UK
+#          date_start: '2014-04-01'
+#          date_end: '2016-03-31'
+##          description: I was working on many fun computer vision problems, including Face Identification, Nudity Detection, and Object Tracking.
+#    design:
+#      columns: '2'
       
 #  - block: accomplishments
 #    content:
@@ -185,34 +185,34 @@ sections:
 #      # Choose a layout view
 #      view: compact
 #      columns: '2'
-#  - block: portfolio
-#    id: projects
-#    content:
-#      title: Projects
-#      filters:
-#        folders:
-#          - project
-#      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-#      default_button_index: 0
-#      # Filter toolbar (optional).
-#      # Add or remove as many filters (`filter_button` instances) as you like.
-#      # To show all items, set `tag` to "*".
-#      # To filter by a specific tag, set `tag` to an existing tag name.
-#      # To remove the toolbar, delete the entire `filter_button` block.
-##      buttons:
-##        - name: All
-##          tag: '*'
-##        - name: Deep Learning
-##          tag: Deep Learning
-##        - name: Other
-##          tag: Demo
-#    design:
-#      # Choose how many columns the section has. Valid values: '1' or '2'.
-#      columns: '2'
-##      view: showcase
-#      view: card
-#      # For Showcase view, flip alternate rows?
-#      flip_alt_rows: false
+  - block: portfolio
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+#      buttons:
+#        - name: All
+#          tag: '*'
+#        - name: Deep Learning
+#          tag: Deep Learning
+#        - name: Other
+#          tag: Demo
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+#      view: showcase
+      view: card
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
 #  - block: markdown
 #    content:
 #      title: Gallery
@@ -230,9 +230,9 @@ sections:
           - publication
         featured_only: true
       text: |-
-        {{% callout note %}}
-        See all [publications](./publication/).
-        {{% /callout %}}
+#        {{% callout note %}}
+#        See all [publications](./publication/).
+#        {{% /callout %}}
     design:
       columns: '2'
       view: card
@@ -276,12 +276,12 @@ sections:
 #      email: test@example.org
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
-#      address:
+      address:
 #        street: 450 Serra Mall
-#        city: Stanford
-#        region: CA
+        city: Tübingen
+        region: Germany
 #        postcode: '94305'
-#        country: United States
+#        country: Germany
 #        country_code: US
 #      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 #      office_hours:

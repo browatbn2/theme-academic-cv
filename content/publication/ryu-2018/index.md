@@ -3,7 +3,7 @@ title: 'Retinal Vessel Detection Using Deep Learning: A novel DirectNet Architec
 authors:
 - Hyeongsuk Ryu
 - Hyeongjun Moon
-- Björn Browatzki
+- admin
 - Christian Wallraven
 date: '2018-01-01'
 publishDate: '2024-01-04T18:48:40.714816Z'

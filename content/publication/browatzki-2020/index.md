@@ -5,13 +5,12 @@ authors:
 - admin
 - Jörn Philipp Lies
 - Christian Wallraven
-date: '2020-01-01'
+date: '2020-10-01'
 publishDate: '2024-01-04T18:48:40.694226Z'
 publication_types:
-- article-journal
-publication: '*Lecture Notes in Computer Science (including subseries Lecture Notes
-  in Artificial Intelligence and Lecture Notes in Bioinformatics)*'
-publication_short: MICCAI-OMIA
+- paper-conference
+publication: '*6th International Workshop on Ophthalmic Medical Image Analysis, OMIA 2020, held in conjunction with 23rd International Conference on Medical Imaging and Computer-Assisted Intervention, MICCAI 2020*'
+publication_short: '*MICCAI-OMIA 2020*'
 doi: 10.1007/978-3-030-63419-3_5
 abstract: We propose an encoder-decoder framework for the segmentation of blood vessels
   in retinal images that relies on the extraction of large-scale patches at multiple
@@ -30,4 +29,7 @@ tags:
 featured: true
 ---
 
-![Results](./results.png)
+<video width="320" height="240" controls>
+  <source src="paper07.mp4" type="video/mp4">
+</video>
+

@@ -9,7 +9,7 @@ publication_types:
 - paper-conference
 publication: '*International Conference on Computer Vision Workshop,
   ICCVW 2019*'
-publication_short: '*ICCVW*'
+publication_short: '*ICCV-W 2019*'
 doi: 10.1109/ICCVW.2019.00071
 abstract: "Current solutions to discriminative and generative tasks in computer vision
   exist separately and often lack interpretability and explainability. Using faces

@@ -35,12 +35,6 @@ interests:
   - Robotic Vision
   - Few-shot Learning
 
-fooo:
-  - Faces, Eyes, Bodies
-  - Medical Images
-  - Robotic Vision
-  - Few-shot Learning
-  
 # Education to show in About widget
 education:
   courses:
@@ -126,15 +120,18 @@ social:
 highlight_name: true
 ---
 
-I'm a computer vision researcher and engineer.
+[//]: # (I'm a computer vision researcher and engineer. )
 
-During my PhD at [MPI](https://duckduckgo.com) focused on object perception skills for robots.
+During my PhD at the [MPI in Tübingen](https://duckduckgo.com), I was developing object multimodal perception skills for robots in collaboration with the [IIT in Genoa](https://iit.it) and [Fraunhofer IPA](). 
+Later, I joined the interactive video startup [Wirewax](https://wirewax.com) in London where I had the pleasure to work on many fun computer vision problems including Face Identification, 
+Nudity Detection :eyes: and Object Tracking.
 
-Later I joined [Wirewax](https://wirewax.com) in London where I had the pleasure to work on many fun computer vision problems like Face Indentification, 
+In 2018, I moved to Seoul for a position at [Korea University](). My work mostly revolved around decoding, encoding, recoding, analysing large amounts of facial images. 
+At that time, I got in contact with retinal images. This project eventually turned into [eye2you GmbH](), a medical AI startup creating a portable and intelligent fundus camera.  
 
-I'm also a running enthusiast (=addict). When I'm not injured (which unfortunately has been rare lately) you usally find me somewhere on a trail or on a track. 
+Finally, I'm also a running enthusiast (=addict). When I'm not injured (which unfortunately has been rare lately) you usually find me somewhere on a trail or on a track. 
+If possible together with people from these fabulous running clubs: 
+[Seoul Flyers](https://seoulflyers.wixsite.com/seoulflyers), [Victoria Park Harriers](https://vphthac.org.uk/), [LAV Tübingen](https://lav-tuebingen.com/)
 
-[//]: # (If possible together with people from these fabulous running clubs: )
-[//]: # ([Seoul Flyers]&#40;https://duckduckgo.com&#41;, [Victoria Park Harriers]&#40;https://duckduckgo.com&#41;, [LAV Tübingen]&#40;https://duckduckgo.com&#41;)
-
+[//]: # (*"There is now growth in the comfort zone, no comfort in the growth zone."*)
 {style="text-align: justify;"}
