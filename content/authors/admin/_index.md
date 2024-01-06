@@ -134,7 +134,7 @@ I have a particular interest in **few-shot** settings and **semi-supervised** ap
 Finally, I'm also a running enthusiast (=addict). When I'm not injured (which unfortunately has been rare lately) you usually find me somewhere on a track or trail.
 
 [//]: # (**:small_orange_diamond: Spaces over tabs :small_orange_diamond: VI over Emacs :small_orange_diamond: C++ over Java :small_orange_diamond: Light mode over dark mode**)
-:small_blue_diamond: Spaces over tabs :small_blue_diamond: VI over Emacs :small_blue_diamond: C++ over Java :small_blue_diamond: Light mode over dark mode
+:small_blue_diamond: Spaces over tabs &nbsp;&nbsp; :small_blue_diamond: VI over Emacs &nbsp;&nbsp; :small_blue_diamond: C++ over Java &nbsp;&nbsp; :small_blue_diamond: Light mode over dark mode
 
 [//]: # (&nbsp;  <span style="font-size:0.5em;">&#40;yes, I'm old school&#41;</span>)
 
