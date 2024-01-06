@@ -25,8 +25,8 @@ abstract: "Current solutions to discriminative and generative tasks in computer 
   attributes, and supports various face editing tasks using a face representation
   of only 99 dimensions. Finally, we apply the architecture's robust image synthesis
   capabilities to visually debug label-quality issues in an existing face dataset."
-url_pdf: 'https://arxiv.org/pdf/1911.10448.pdf'
-#url_code: 'https://github.com/browatbn2/3fabrec'
+#url_pdf: 'https://arxiv.org/pdf/1911.10448.pdf'
+#url_code: 'https://github.com/browatbn2/MAD'
 links:
   - name: supplementary
     url: browatzki-2019_supplementary.pdf
