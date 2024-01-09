@@ -120,7 +120,12 @@ social:
 highlight_name: true
 ---
 
-[//]: # (I'm a computer vision researcher and engineer. )
+Hi there, I'm Björn (비연). I'm a computer scientist and engineer. 
+I create software to perceive and understand the world around us.
+
+[//]: # (I'm interested in creating software to perceive and understand the world around us.)
+
+[//]: # (My work deals with images and video.)
 
 During my PhD at the [MPI in Tübingen](https://www.kyb.tuebingen.mpg.de/human-perception-cognition-action), I developed multimodal object perception skills for **robots** in collaboration with the [IIT in Genoa](https://iit.it) and [Fraunhofer IPA](https://www.ipa.fraunhofer.de). 
 Later, I joined the interactive video startup [Wirewax](https://wirewax.app) in London where I had the pleasure to work on many fun **computer vision** problems including Face Identification, 
