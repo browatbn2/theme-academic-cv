@@ -122,16 +122,17 @@ highlight_name: true
 
 [//]: # (I'm a computer vision researcher and engineer. )
 
-During my PhD at the [MPI in Tübingen](https://www.kyb.tuebingen.mpg.de/human-perception-cognition-action), I was developing multimodal object perception skills for **robots** in collaboration with the [IIT in Genoa](https://iit.it) and [Fraunhofer IPA](https://www.ipa.fraunhofer.de). 
+During my PhD at the [MPI in Tübingen](https://www.kyb.tuebingen.mpg.de/human-perception-cognition-action), I developed multimodal object perception skills for **robots** in collaboration with the [IIT in Genoa](https://iit.it) and [Fraunhofer IPA](https://www.ipa.fraunhofer.de). 
 Later, I joined the interactive video startup [Wirewax](https://wirewax.app) in London where I had the pleasure to work on many fun **computer vision** problems including Face Identification, 
 Nudity Detection :eyes: and Object Tracking.
 
-In 2018, I moved to Seoul for a position at [Korea University](https://cogsyslab.notion.site/). My work mostly revolved around decoding, encoding, recoding, analysing large amounts of **facial data**. 
+In 2018, I moved to Seoul for a position at [Korea University](https://cogsyslab.notion.site/). My work mostly revolved around decoding, encoding, recoding, and analysing large amounts of **facial data**. 
 At that time, I also started with the analysis of **retinal images**. This project eventually turned into [eye2you GmbH](https://eye2you.github.io/), a medtech startup that was set out to create a smart and portable fundus camera for a wide range of medical applications. 
 
 I have a particular interest in **few-shot** settings and **semi-supervised** approaches using unsupervised **generative methods**.
 
-Finally, I'm also a running enthusiast (=addict). When I'm not injured (which unfortunately has been rare lately) you usually find me somewhere on a track or trail.
+[//]: # (Finally, I'm also a running enthusiast &#40;=addict&#41;. When I'm not injured &#40;which unfortunately has been rare lately&#41; you usually find me somewhere on a track or trail.)
+Finally, I'm also a running enthusiast (=addict). Whenever I can, I'll be somewhere on a track or on a trail.
 
 [//]: # (**:small_orange_diamond: Spaces over tabs :small_orange_diamond: VI over Emacs :small_orange_diamond: C++ over Java :small_orange_diamond: Light mode over dark mode**)
 :small_blue_diamond: Spaces over tabs &nbsp;&nbsp; :small_blue_diamond: VI over Emacs &nbsp;&nbsp; :small_blue_diamond: C++ over Java &nbsp;&nbsp; :small_blue_diamond: Light mode over dark mode
