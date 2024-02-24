@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Computer Vision Researcher 
+role: Computer Vision Researcher <br> 
       Machine/Deep Learning Engineer
 
 # Organizations/Affiliations to show in About widget
